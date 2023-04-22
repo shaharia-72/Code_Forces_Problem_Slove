@@ -37,5 +37,6 @@
   "files.associations": {
     "*.embeddedhtml": "html",
     "math.h": "c"
-  }
+  },
+  "C_Cpp_Runner.showCompilationTime": false
 }
